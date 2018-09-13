@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Raj",
+    "location": "London",
+    "company": "CYF",
+    "age": 10
+  },
+  {
+    "name": "Seraphine",
+    "location": "London",
+    "company": "CYF",
+    "age": 30
+  },
+  {
+    "name": "Than",
+    "location": "London",
+    "company": "CYF",
+    "age": 30
+  }
+]
